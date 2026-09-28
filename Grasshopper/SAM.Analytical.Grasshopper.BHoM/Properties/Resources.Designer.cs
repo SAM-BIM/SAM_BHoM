@@ -79,5 +79,35 @@ namespace SAM.Analytical.Grasshopper.BHoM.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap SAM_GH_LevelPluralCreate {
+            get {
+                object obj = ResourceManager.GetObject("SAM_GH_LevelPluralCreate", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap SAM_GH_ObjectExport {
+            get {
+                object obj = ResourceManager.GetObject("SAM_GH_ObjectExport", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap SAM_GH_PanelExport {
+            get {
+                object obj = ResourceManager.GetObject("SAM_GH_PanelExport", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }
