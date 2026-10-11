@@ -1,0 +1,53 @@
+[
+ {
+  "project": "SAM.Analytical.Grasshopper.BHoM",
+  "project_dir": "Grasshopper/SAM.Analytical.Grasshopper.BHoM",
+  "class": "SAMAnalyticalBHoM",
+  "base_type": "GH_SAMVariableOutputParameterComponent",
+  "guid": "f3018f46-4706-4ea0-beb3-1fbca8b6ed47",
+  "name": "SAMAnalytical.BHoM",
+  "nickname": "SAMAnalytical.BHoM",
+  "category": "SAM",
+  "subcategory": "BHoM",
+  "icon_expr": "SAM_BHoM",
+  "icon_holder": "Resources",
+  "icon_via_bytes": false,
+  "exposure": null,
+  "obsolete": false,
+  "source": "Grasshopper/SAM.Analytical.Grasshopper.BHoM/Component/SAMAnalyticalBHoM.cs"
+ },
+ {
+  "project": "SAM.Analytical.Grasshopper.BHoM",
+  "project_dir": "Grasshopper/SAM.Analytical.Grasshopper.BHoM",
+  "class": "SAMAnalyticalCreateBHoMLevels",
+  "base_type": "GH_SAMVariableOutputParameterComponent",
+  "guid": "4ec4c49f-98b1-4de5-b163-9650ab235e5d",
+  "name": "SAMAnalytical.CreateBHoMLevels",
+  "nickname": "SAMAnalyticalPanel.CreateBHoMLevels",
+  "category": "SAM",
+  "subcategory": "BHoM",
+  "icon_expr": "SAM_BHoM",
+  "icon_holder": "Resources",
+  "icon_via_bytes": false,
+  "exposure": null,
+  "obsolete": false,
+  "source": "Grasshopper/SAM.Analytical.Grasshopper.BHoM/Component/SAMAnalyticalCreateBHoMLevels.cs"
+ },
+ {
+  "project": "SAM.Analytical.Grasshopper.BHoM",
+  "project_dir": "Grasshopper/SAM.Analytical.Grasshopper.BHoM",
+  "class": "SAMAnalyticalPanelBHoM",
+  "base_type": "GH_SAMVariableOutputParameterComponent",
+  "guid": "f3018f46-4706-4ea0-beb3-1fbca8b6ed49",
+  "name": "SAMAnalyticalPanel.BHoM",
+  "nickname": "SAMAnalyticalPanel.BHoM",
+  "category": "SAM",
+  "subcategory": "BHoM",
+  "icon_expr": "SAM_BHoM",
+  "icon_holder": "Resources",
+  "icon_via_bytes": false,
+  "exposure": null,
+  "obsolete": false,
+  "source": "Grasshopper/SAM.Analytical.Grasshopper.BHoM/Component/SAMAnalyticalPanelBHoM.cs"
+ }
+]

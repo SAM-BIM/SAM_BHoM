@@ -26,7 +26,7 @@ namespace SAM.Analytical.Grasshopper.BHoM
         /// <summary>
         /// Provides an Icon for the component.
         /// </summary>
-        protected override System.Drawing.Bitmap Icon => Resources.SAM_BHoM;
+        protected override System.Drawing.Bitmap Icon => Resources.SAM_GH_ObjectExport;
 
         /// <summary>
         /// Initializes a new instance of the SAM_point3D class.
